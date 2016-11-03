@@ -1,0 +1,4 @@
+.vs
+comPrinter/comPrinter/obj/*
+comPrinter/comPrinter/bin/*
+comPrinter/comPrinter/comPrinter.csproj
